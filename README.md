@@ -1,16 +1,14 @@
-### Hi there 👋
+# 0xAanon 
 
-<!--
-**yesmanno/yesmanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Security Researcher for G.Sec, Have been working on Advanced Security Research on Hyper-v, Windows Kernel, Fuzzing, Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Areas 
+- Windows Kernel 
+- Quantum Physics 
+- Mathematics
+- Fuzzing
+- Hyper-V
+- Machine Learning 
+
