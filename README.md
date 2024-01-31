@@ -12,3 +12,4 @@ Security Researcher for G.Sec, Have been working on Advanced Security Research o
 - Hypervisor
 - Machine Learning 
 
+Kudos to my mate @Mardcelo 
