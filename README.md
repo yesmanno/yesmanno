@@ -1,7 +1,7 @@
-# 0xAanon 
+# 0xAamon 
 
 ## Introduction
 
-Security Researcher for G.Sec, Have been working on Security Research on Hypervisor, Windows Kernel, Fuzzing, Datastructure
+Idk who i even am tbh 
 
-Kudos to my mate @Mardcelo 
+Сложней всего не быть таким как все, я не знаю, как тебе помочь, но и не хочу я жить ¯\_(ツ)_/¯
